@@ -1,6 +1,6 @@
 # Simple chat with SocketIO
 
-*Includes: *
+## Includes: 
 
 1. Express Server
 2. SocketIO Server
